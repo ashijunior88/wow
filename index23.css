@@ -1,0 +1,137 @@
+html{    
+    font-weight: 100;
+    font-family: "Century Gothic";
+    color: #72aeb5;
+    font-size: 1.55rem;
+    background-color: #f6f6f6;
+}
+
+#corner1{
+    text-align: center;
+    border-radius: 15px;
+    border: 4.5px solid #72aeb5;
+    width: 215px;
+    height: 27px;
+    padding: 13px;
+}
+
+header{
+    padding-top: 0rem;
+}
+
+.firstcolorchange{
+    background-color: rgb(255, 255, 255);
+    padding: 22px;
+}
+
+hr{
+    width: 100%;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.size{
+    font-size: 16.5px;
+    color: rgb(124, 124, 124);
+    text-align: left;
+}
+
+.corner2{
+    text-align: left;
+    border-radius: 15px;
+    border: 4.5px solid rgb(255, 255, 255);
+    width: 255px;
+    height: 227px;
+    padding: 13px;
+}
+
+.corner3{
+    text-align: left;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    width: 215px;
+    height: 137px;
+    padding: 17px;
+    font-size: 16.5px;
+}
+
+td{
+    padding-left: 10px;
+    margin-top: 0px;
+}
+
+#text2{
+    margin-top: 3px;
+    margin-left: 1px;
+}
+
+#size{
+    font-size: 16.8px;
+    color: rgb(124, 124, 124);
+    text-align: left;
+    font-weight: bold;
+    margin: 0ex;
+}
+
+.clash{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#size1{
+    font-size: 16.8px;
+    color: rgb(124, 124, 124);
+    text-align: left;
+    margin: 0ex;
+    padding-top: 30px;
+}
+
+#size2{
+    font-size: 16.8px;
+    color: rgb(124, 124, 124);
+    text-align: left;
+    margin: 0ex;
+}
+
+footer{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#line5{
+    width: 100%;
+    border: 0.2px solid rgb(223, 223, 223);
+}
+
+#size01{
+    font-size: 16.8px;
+    color: rgb(124, 124, 124);
+    text-align: left;
+    margin-top: 0%;
+    padding-top: 30px;
+}
+
+#size7{
+    font-size: 16.8px;
+    color: rgb(214, 130, 130);
+    text-align: left;
+    margin-top: 0%;
+}
+
+.size17{
+    font-size: 16.8px;
+    color: rgb(214, 130, 130);
+    text-align: left;
+    margin-top: 0%;
+}
+
+#border{
+    border: 1px solid black;
+}
+
+#size001{
+    font-size: 16.8px;
+    color: rgb(214, 130, 130);
+    text-align: left;
+    margin-top: 0%;
+    padding-top: 30px;
+}
